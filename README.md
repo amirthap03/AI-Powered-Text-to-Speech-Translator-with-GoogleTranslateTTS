@@ -54,3 +54,7 @@ Here's a breakdown of the code:
 
 
 The user is prompted to enter the English text they want to translate and hear in the target language. When executed, the script performs the translation, converts the text to speech, and plays it using the default media player. The code showcases how AI-powered language translation and text-to-speech technology can be utilized to enhance cross-language communication and accessibility.
+
+
+
+visit : https://kandi.openweaver.com/collections/artificial-intelligence/ai-powered-text-to-speech-translator-with-googletranslatetts
