@@ -3,7 +3,7 @@ The Code is developed via "Python" language .
 DESCRIPTION 
 
 
-This Python script demonstrates an AI-Powered Text-to-Speech Translator using the `gTTS` (Google Text-to-Speech) library and `googletrans` for translation. The purpose of this code is to take user input in English and then translate and convert it to speech in the target language, which is set to Tamil (ta) by default. You can also change the target language.
+This Python code demonstrates an AI-Powered Text-to-Speech Translator using the `gTTS` (Google Text-to-Speech) library and `googletrans` for translation. The purpose of this code is to take user input in English and then translate and convert it to speech in the target language, which is set to Tamil (ta) by default. You can also change the target language.
 
 
 
